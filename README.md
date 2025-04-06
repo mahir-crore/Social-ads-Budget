@@ -2,7 +2,7 @@
 
 This project compares multiple regression algorithms using the `Social_Network_Ads.csv` dataset.
 
-## 📌 Features
+##  Features
 - Data loading & preprocessing
 - Regression models:
   - Linear, Ridge, Lasso
@@ -11,11 +11,11 @@ This project compares multiple regression algorithms using the `Social_Network_A
 - Evaluation metrics:
   - MAE, MSE, R² Score
 
-## ▶️ How to Run
+##  How to Run
 1. Open the notebook in Jupyter.
 2. Enter the CSV filename when prompted.
 3. Run all cells to see model comparisons.
 
-## 📁 Requirements
+##  Requirements
 - Python
 - pandas, scikit-learn, matplotlib, seaborn
